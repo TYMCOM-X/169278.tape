@@ -1,0 +1,36 @@
+ 
+  MCI 
+  DATA SERVICE DIVISION 
+  DATA SERVICE OPERATIONS 
+  SVER. LVL. I, II, III / OPEN STRATACOM TKTS 
+  ----------------------------------------------- 
+  TOTAL # OF TICKETS                =         9
+ 
+  TOTAL TICKETS WITH CUSTOMER TIME  =         5
+ 
+  TOTAL OUTAGE TIME (HRS)           =       106.10
+ 
+  TOTAL CUSTOMER TIME (HRS)         =      113
+ 
+  AVERAGE OUTAGE TIME (HRS)         =        11.79
+ 
+  AVERAGE CUSTOMER TIME (HRS)       =        22.00
+ 
+  ----------------------------------------------- 
+  OUTAGES > 2 HOUR MTTR 
+  ----------------------------------------------- 
+  % <= 2 HRS. =     22.22
+ 
+  ----------------------------------------------- 
+  % < 5 HRS. =     44.44
+ 
+  --------------------------------------- 
+  CUSTOMER         TKT #     SEVERITY  REPORTED PROBLEM         OPENED 
+  --------         ----      --------  ----------------  ---------------     
+ MCI LAB           693979       1      IPX PORT          12/ 4/95  19:13
+ SILVER PLATTER    694439       1      LEASE LINE        12/ 6/95  11:45
+ CHIRON            694513       1      SLOW RESP.        12/ 6/95  16:36
+ BECTON            694601       1      IPX PORT          12/ 6/95  19:05
+ BDP INTERNATION   694607       1      OTHER             12/ 6/95  19:48
+ SEAGRAMS          694659       1      IPX PORT          12/ 7/95   0:08
+ MOLEX             694665       2      IPX PORT          12/ 7/95   0:38
