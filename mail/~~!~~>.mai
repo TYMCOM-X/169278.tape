@@ -1,0 +1,396 @@
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Wed, ?? ??? ?? 20:56:58 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26608 HAS BEEN COMPLETED.
+
+FROM SYSTEM 28 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - DEBBIE
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 0:31:04 UT 
+To: UTIL 
+Subject: Req #10917 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #10917 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  06-Dec-95 16:30:00
+; Actual run: 06-Dec-95 16:30:00
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  06-Dec-95 16:31:01
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 1:59:01 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26610 HAS BEEN COMPLETED.
+
+FROM SYSTEM 28 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - EZ
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 9:01:32 UT 
+To: UTIL 
+Subject: Req #10918 DSK:(UTIL)MIDDMS.TNT Done-End 
+
+; Processed:  Req #10918 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+; Scheduled:  07-Dec-95 01:00:00
+; Actual run: 07-Dec-95 01:00:03
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  07-Dec-95 01:01:27
+;
+; Output recorded in file DSK:(UTIL)MIDDMS.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 10:21:49 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26611 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE4.DMS, OCALBK.DMS, BASE5.DMS, BASE7.DMS.
+
+FREMONT OPERATIONS - D.B.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 11:01:23 UT 
+To: UTIL 
+Subject: Req #10919 DSK:(UTIL)BAKMID.TNT Done-End 
+
+; Processed:  Req #10919 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+; Scheduled:  07-Dec-95 03:00:00
+; Actual run: 07-Dec-95 03:00:06
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  07-Dec-95 03:01:15
+;
+; Output recorded in file DSK:(UTIL)BAKMID.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 11:26:07 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26612 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - D.B.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 18:01:19 UT 
+To: UTIL 
+Subject: Req #10921 DSK:(UTIL)BAKDAY.TNT Done-End 
+
+; Processed:  Req #10921 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+; Scheduled:  07-Dec-95 10:00:00
+; Actual run: 07-Dec-95 10:00:10
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  07-Dec-95 10:01:16
+;
+; Output recorded in file DSK:(UTIL)BAKDAY.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Thu, ?? ??? ?? 19:25:28 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26613 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - R.E.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Fri, ?? ??? ?? 0:30:56 UT 
+To: UTIL 
+Subject: Req #10922 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #10922 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  07-Dec-95 16:30:00
+; Actual run: 07-Dec-95 16:30:06
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  07-Dec-95 16:30:55
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Fri, ?? ??? ?? 1:38:46 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26614 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - KEV.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Fri, ?? ??? ?? 9:00:44 UT 
+To: UTIL 
+Subject: Req #10924 DSK:(UTIL)MIDDMS.TNT Done-End 
+
+; Processed:  Req #10924 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+; Scheduled:  08-Dec-95 01:00:00
+; Actual run: 08-Dec-95 01:00:05
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  08-Dec-95 01:00:41
+;
+; Output recorded in file DSK:(UTIL)MIDDMS.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Fri, ?? ??? ?? 10:25:20 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26615 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE4.DMS, OCALBK.DMS, BASE5.DMS, BASE7.DMS.
+
+FREMONT OPERATIONS - L.G.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Fri, ?? ??? ?? 11:01:12 UT 
+To: UTIL 
+Subject: Req #10925 DSK:(UTIL)BAKMID.TNT Done-End 
+
+; Processed:  Req #10925 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+; Scheduled:  08-Dec-95 03:00:00
+; Actual run: 08-Dec-95 03:00:06
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  08-Dec-95 03:01:09
+;
+; Output recorded in file DSK:(UTIL)BAKMID.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Fri, ?? ??? ?? 11:23:41 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26616 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - L.G.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Fri, ?? ??? ?? 18:01:15 UT 
+To: UTIL 
+Subject: Req #10926 DSK:(UTIL)BAKDAY.TNT Done-End 
+
+; Processed:  Req #10926 DSK:(UTIL)BAKDAY=DSK:(UTIL)BAKDAY.TNT
+; Scheduled:  08-Dec-95 10:00:00
+; Actual run: 08-Dec-95 10:00:05
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  08-Dec-95 10:01:13
+;
+; Output recorded in file DSK:(UTIL)BAKDAY.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Sat, ?? ??? ?? 0:31:12 UT 
+To: UTIL 
+Subject: Req #10927 DSK:(UTIL)BAKSWG.TNT Done-End 
+
+; Processed:  Req #10927 DSK:(UTIL)BAKSWG=DSK:(UTIL)BAKSWG.TNT
+; Scheduled:  08-Dec-95 16:30:00
+; Actual run: 08-Dec-95 16:30:04
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  08-Dec-95 16:31:09
+;
+; Output recorded in file DSK:(UTIL)BAKSWG.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Sat, ?? ??? ?? 5:20:44 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26618 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - EZ
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Sat, ?? ??? ?? 9:00:58 UT 
+To: UTIL 
+Subject: Req #10929 DSK:(UTIL)MIDDMS.TNT Done-End 
+
+; Processed:  Req #10929 DSK:(UTIL)MIDDMS=DSK:(UTIL)MIDDMS.TNT
+; Scheduled:  09-Dec-95 01:00:00
+; Actual run: 09-Dec-95 01:00:03
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  09-Dec-95 01:00:56
+;
+; Output recorded in file DSK:(UTIL)MIDDMS.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Sat, ?? ??? ?? 10:04:43 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26619 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE4.DMS, OCALBK.DMS, BASE5.DMS, BASE7.DMS.
+
+FREMONT OPERATIONS - L.G.
+
+RCPT To: <UTIL>
+Reply-to: SUBMIT 
+From: F26 Job Processor 
+Sender: PERPOPER@F26.Tymnet.COM 
+Date: Sat, ?? ??? ?? 11:01:03 UT 
+To: UTIL 
+Subject: Req #10930 DSK:(UTIL)BAKMID.TNT Done-End 
+
+; Processed:  Req #10930 DSK:(UTIL)BAKMID=DSK:(UTIL)BAKMID.TNT
+; Scheduled:  09-Dec-95 03:00:00
+; Actual run: 09-Dec-95 03:00:02
+;
+; Options:  Log:Supersede Mail:Always Unique:Job
+; Limits:  Time 60  TRUs 0
+; Flags: 
+; Status:  Done-End  at  09-Dec-95 03:01:01
+;
+; Output recorded in file DSK:(UTIL)BAKMID.
+
+RCPT To: <UTIL>
+From: OPER@F26.Tymnet.COM 
+Date: Sat, ?? ??? ?? 11:30:06 UT 
+To: PAPDEV, UTIL, TNT, PALS 
+
+
+BATCH REQUEST #26620 HAS BEEN COMPLETED.
+
+FROM SYSTEM 26 TO SYSTEM 34.
+
+(TNT)BASE1.DMS THRU BASE3.DMS, BASE6.DMS, CALBAK.DMS, STATBK.DMS AND TNUM.DMS
+
+(TNT)PAPER.SAV WAS RESTORED AS PAPER.RUN.
+
+(NSSC)NPAP.DMS
+
+FREMONT OPERATIONS - L.G.
+
+    
