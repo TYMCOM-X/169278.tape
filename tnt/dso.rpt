@@ -1,0 +1,68 @@
+ 
+  MCI 
+  DSD / DSO 
+  CRC / MTTR QUALITY REPORT 
+  SVER. LVL. 2
+ 
+  ----------------------------------------------- 
+  NUMBER OF INCIDENTS =   38
+ 
+  ----------------------------------------------- 
+  MEAN TIME TO REPAIR (MIN.) =   449.11
+ 
+  ----------------------------------------------- 
+  % <= 2 HRS. =     36.84
+ 
+  ----------------------------------------------- 
+  % < 5 HRS. =     60.53
+ 
+  --------------------------------------- 
+  TKT #    REPT PROB    CLOSE CODE   ELM (HRS) 
+  -------- ----------   ----------   --------- 
+  693635   OTHER        DOCUMENTN     44.0
+ 
+  694278   OTHER        VALIDATION    31.7
+ 
+  694291   CUST INQRY   HWARE/VNDR    19.1
+ 
+  694385   OTHER        SWARE/VNDR    29.5
+ 
+  694521   NO CARRIER   DOCUMENTN      5.6
+ 
+  694574   RNA          ASYC MODEM    10.3
+ 
+  694589   GARBAGE      ASYC MODEM    27.0
+ 
+  694610   NR TO TID    ASYC MODEM    14.3
+ 
+  694650   OPR INTCPT   OP/PCDR ER    10.5
+ 
+  694675   NO CARRIER   NTF/CWT       10.6
+ 
+  694681   RNA          NONE           6.3
+ 
+  694687   NR TO TID    NTF/CWT        3.4
+ 
+  694691   GARBAGE      CWT            9.0
+ 
+  694693   RNA          NTF/CWT        4.9
+ 
+  694694   NO CARRIER   NTF/CWT        2.9
+ 
+  694707   NO CARRIER   NTF/CWT        5.4
+ 
+  694708   RNA          ASYC MODEM     4.7
+ 
+  694715   NO CARRIER   ASYC MODEM     6.2
+ 
+  694746   NO CARRIER   NTF/CWT       10.9
+ 
+  694783   NO CARRIER   NTF/CWT        3.4
+ 
+  694811   OTHER        SWARE/VNDR     2.6
+ 
+  694823   OTHER        SWARE CNFG     4.0
+ 
+  694845   NO CARRIER   NTF/CWT        3.9
+ 
+  694871   OTHER        CONFIG CHG     2.9
